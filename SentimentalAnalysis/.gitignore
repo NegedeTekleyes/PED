@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+sentiment_env/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (optional - you might want to keep these)
+models/
+results/
+logs/
+
+# Dataset cache
+.huggingface/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
